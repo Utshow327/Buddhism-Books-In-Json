@@ -21,76 +21,44 @@ This information is pulled from `_publication.json` in the `published` branch of
 
 ```json
 {
-  "dn": {
-    "text_uid": "dn",
-    "root_title": "Dīghanikāya",
-    "translation_title": "Long Discourses",
-    "translation_subtitle": "A faithful translation of the Dīgha Nikāya",
-    "source_url": "https://github.com/suttacentral/bilara-data/tree/published/translation/en/sujato/sutta/dn",
-    "author": {
-      "author_name": "Bhikkhu Sujato",
-      "collaborators": []
-    },
-    "is_published": true,
-    "edition_urls": [
-      "https://suttacentral.net/dn"
-    ]
-  },
-  "mn": {
-    "text_uid": "mn",
-    "root_title": "Majjhimanikāya",
-    "translation_title": "Middle Discourses",
-    "translation_subtitle": "A lucid translation of the Majjhima Nikāya",
-    "source_url": "https://github.com/suttacentral/bilara-data/tree/published/translation/en/sujato/sutta/mn",
-    "author": {
-      "author_name": "Bhikkhu Sujato",
-      "collaborators": []
-    },
-    "is_published": true,
-    "edition_urls": [
-      "https://suttacentral.net/mn"
-    ]
-  },
-  "sn": {
-    "text_uid": "sn",
-    "root_title": "Saṁyuttanikāya",
-    "translation_title": "Linked Discourses",
-    "translation_subtitle": "A plain translation of the Saṁyutta Nikāya",
-    "source_url": "https://github.com/suttacentral/bilara-data/tree/published/translation/en/sujato/sutta/sn",
-    "author": {
-      "author_name": "Bhikkhu Sujato",
-      "collaborators": []
-    },
-    "is_published": true,
-    "edition_urls": [
-      "https://suttacentral.net/sn"
-    ]
-  },
-  "an": {
-    "text_uid": "an",
-    "root_title": "Aṅguttaranikāya",
-    "translation_title": "Numbered Discourses",
-    "translation_subtitle": "A sensible translation of the Aṅguttara Nikāya",
-    "source_url": "https://github.com/suttacentral/bilara-data/tree/published/translation/en/sujato/sutta/an",
-    "author": {
-      "author_name": "Bhikkhu Sujato",
-      "collaborators": []
-    },
-    "is_published": true,
-    "edition_urls": []
-  },
-  "thag": {
-    "text_uid": "thag",
-    "root_title": "Theragāthā",
-    "translation_title": "Verses of the Senior Monks",
-    "translation_subtitle": "An approachable translation of the Theragāthā",
-    "source_url": "https://github.com/suttacentral/bilara-data/tree/published/translation/en/sujato/sutta/kn/thag",
-    "author": {
-      "author_name": "Bhikkhu Sujato & Jessica Walton",
-      "collaborators": ["Bhikkhu Sujato", "Jessica Walton"]
-    },
-    "is_published": true,
-    "edition_urls": [
+  "0": {
+    "bookName": "Dhammapada",
+    "verses": [
+      {
+        "id": "dhp1:0.1",
+        "text": "Minor Collection"
+      },
+      {
+        "id": "dhp1:0.2",
+        "text": "Sayings of the Dhamma 1–20"
+      },
+      {
+        "id": "dhp1:0.3",
+        "text": "1. Pairs"
+      },
+      {
+        "id": "dhp1:1",
+        "text": "Intention shapes experiences;"
+      },
+      {
+        "id": "dhp1:2",
+        "text": "intention is first, they’re made by intention."
+      },
+      {
+        "id": "dhp1:3",
+        "text": "If with corrupt intent"
+      },
+      {
+        "id": "dhp1:4",
+        "text": "you speak or act,"
+      },
+      {
+        "id": "dhp1:5",
+        "text": "suffering follows you,"
+      },
+      {
+        "id": "dhp1:6",
+        "text": "like a wheel, the ox’s foot."
       "https://suttacentral.net/thag"
     ]
   }
