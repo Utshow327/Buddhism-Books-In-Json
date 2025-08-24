@@ -60,6 +60,6 @@ This information is pulled from `_publication.json` in the `published` branch of
         "id": "dhp1:6",
         "text": "like a wheel, the ox’s foot."
       "https://suttacentral.net/thag"
-    ]
-  }
+    }
+  ]
 }
